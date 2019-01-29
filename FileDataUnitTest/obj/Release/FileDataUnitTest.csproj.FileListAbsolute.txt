@@ -1,0 +1,6 @@
+D:\AAAdevCode\DeveloperTestExercise-master\FileDataUnitTest\bin\Release\FileDataUnitTest.dll
+D:\AAAdevCode\DeveloperTestExercise-master\FileDataUnitTest\bin\Release\FileDataUnitTest.pdb
+D:\AAAdevCode\DeveloperTestExercise-master\FileDataUnitTest\bin\Release\ThirdPartyTools.dll
+D:\AAAdevCode\DeveloperTestExercise-master\FileDataUnitTest\bin\Release\ThirdPartyTools.pdb
+D:\AAAdevCode\DeveloperTestExercise-master\FileDataUnitTest\obj\Release\FileDataUnitTest.dll
+D:\AAAdevCode\DeveloperTestExercise-master\FileDataUnitTest\obj\Release\FileDataUnitTest.pdb
